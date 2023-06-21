@@ -1,0 +1,22 @@
+<mat-toolbar color="primary">
+  <button *ngIf="isUserAuthenticated()" mat-button routerLink="/patient" routerLinkActive="active" class="mat-button-flex-large">Patients</button>
+    <span class="fill-remaining-space"></span>
+    <!-- <button mat-button routerLink="login" *ngIf="!isLoggedIn; else notLoggedIn">Login</button>
+    <ng-template #notLoggedIn>
+      <button mat-button (click)="onLogout()">Logout</button>
+    </ng-template> -->
+    <li *ngIf="!isUserAuthenticated()"><a class="login" routerLink="/login">Login</a></li>
+    <li *ngIf="isUserAuthenticated()" ><a class="logout" (click)="onLogout()">Logout</a></li>
+  
+
+    <!-- <button mat-button (click)="onLogout()" *ngIf="isLoggedIn">Logout</button> -->
+  </mat-toolbar>
+    <!-- <mat-sidenav-container>
+      <mat-sidenav #sidenav role="navigation">
+      </mat-sidenav>
+      <mat-sidenav-content>
+        <main>
+          <router-outlet></router-outlet>
+        </main>
+      </mat-sidenav-content>
+    </mat-sidenav-container> -->
