@@ -1,8 +1,7 @@
 import { Component, OnInit, Inject, ViewChild, ElementRef } from '@angular/core';
 import { PatientService } from './../patient/patient.service';
 import { PageEvent } from '@angular/material/paginator';
-import { MatDialog } from '@angular/material/dialog';
-import * as Highcharts from 'highcharts'    // import highcharts library
+import * as Highcharts from 'highcharts'   
 
 import HighchartsMore from 'highcharts/highcharts-more';
 import HighchartsExporting from 'highcharts/modules/exporting';
@@ -20,17 +19,8 @@ HighchartsData(Highcharts);
 
 export class PatientComponent implements OnInit {
   title = 'CloudBeat';
-  //@ViewChild('summaryContainer') summaryContainer: ElementRef;
 
   displayedColumns: string[] = ['id', 'name', 'dateOfBirth', 'studyStartTime', 'studyEndTime', 'deviceSerialNumber', 'totalNumberOfEvents'];
-  // displayedColumns: any[] = 
-  // [{Name:'title',Title:'Title'}, 
-  // {Name:'original_language',Title:'Original Language'} ,
-  // {Name:'release_date',Title:'Release Date'},
-  // {Name:'popularity',Title:'Popularity'},
-  // {Name:'vote_average',Title:'Vote Average'},
-  // {Name:'overview',Title:'Overview'},
-  // {Name:'logo',Title:'Logo'}];
 
   dataSource: any;
 
@@ -44,9 +34,6 @@ export class PatientComponent implements OnInit {
 
   ngOnInit(): void {
     this.GetPatientsDetails();
-
-    //this.generateChart();
-
   }
   GetPatientsDetails() {
     this.service.GetPatientsDetails( this.currentPage).subscribe((result: any) => {
@@ -82,7 +69,7 @@ Highcharts.chart('chartContainer',{
     text: 'BPM Values'
   },
   xAxis: {
-    categories: dates // Replace with your entry times
+    categories: dates
   },
   yAxis: {
     title: {
@@ -91,7 +78,7 @@ Highcharts.chart('chartContainer',{
   },
   series: [{
     name: 'BPM',
-    data: bpmValues // Replace with your BPM values
+    data: bpmValues 
   }] as Highcharts.SeriesOptionsType[],
   tooltip: {
     shared: true,
