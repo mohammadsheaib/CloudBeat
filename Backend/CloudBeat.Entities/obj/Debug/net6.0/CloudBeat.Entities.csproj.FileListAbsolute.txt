@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Entities\bin\Debug\net6.0\CloudBeat.Entities.deps.json
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Entities\bin\Debug\net6.0\CloudBeat.Entities.dll
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Entities\bin\Debug\net6.0\CloudBeat.Entities.pdb
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Entities\obj\Debug\net6.0\CloudBeat.Entities.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Entities\obj\Debug\net6.0\CloudBeat.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Entities\obj\Debug\net6.0\CloudBeat.Entities.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Entities\obj\Debug\net6.0\CloudBeat.Entities.AssemblyInfo.cs
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Entities\obj\Debug\net6.0\CloudBeat.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Entities\obj\Debug\net6.0\CloudBeat.Entities.dll
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Entities\obj\Debug\net6.0\refint\CloudBeat.Entities.dll
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Entities\obj\Debug\net6.0\CloudBeat.Entities.pdb
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Entities\obj\Debug\net6.0\ref\CloudBeat.Entities.dll

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CloudBeat.Data\CloudBeat.Data.csproj" />
+    <ProjectReference Include="..\CloudBeat.Entities\CloudBeat.Entities.csproj" />
+    <ProjectReference Include="..\CloudBeat.Framework\CloudBeat.Framework.csproj" />
+  </ItemGroup>
+
+</Project>

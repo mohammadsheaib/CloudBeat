@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Data\bin\Debug\net6.0\CloudBeat.Data.deps.json
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Data\bin\Debug\net6.0\CloudBeat.Data.dll
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Data\bin\Debug\net6.0\CloudBeat.Data.pdb
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Data\obj\Debug\net6.0\CloudBeat.Data.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Data\obj\Debug\net6.0\CloudBeat.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Data\obj\Debug\net6.0\CloudBeat.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Data\obj\Debug\net6.0\CloudBeat.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Data\obj\Debug\net6.0\CloudBeat.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Data\obj\Debug\net6.0\CloudBeat.Data.dll
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Data\obj\Debug\net6.0\refint\CloudBeat.Data.dll
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Data\obj\Debug\net6.0\CloudBeat.Data.pdb
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Data\obj\Debug\net6.0\ref\CloudBeat.Data.dll
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Data\bin\Debug\net6.0\CloudBeat.Entities.dll
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Data\bin\Debug\net6.0\CloudBeat.Entities.pdb
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Data\obj\Debug\net6.0\CloudBeat.Data.csproj.CopyComplete
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Data\bin\Debug\net6.0\CloudBeat.Data.runtimeconfig.json
+C:\Users\User\source\repos\CloudBeat\CloudBeat.Data\obj\Debug\net6.0\CloudBeat.Data.genruntimeconfig.cache
